@@ -1,0 +1,232 @@
+[
+ {
+   "index": 0,
+   "category": "counting",
+   "difficulty_level": 1,
+   "question_text_engl": "Count to 10",
+   "question_text_urdu": "10 تک گنیں۔",
+   "audio_file": "q1",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 1,
+   "category": "counting",
+   "difficulty_level": 1,
+   "question_text_engl": "What is 1 more than 4",
+   "question_text_urdu": "1 4 سے زیادہ کیا ہے۔",
+   "audio_file": "q2",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 2,
+   "category": "counting",
+   "difficulty_level": 2,
+   "question_text_engl": "Count by 2 to 10",
+   "question_text_urdu": "2 سے 10 تک شمار کریں۔",
+   "audio_file": "q3",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 3,
+   "category": "counting",
+   "difficulty_level": 2,
+   "question_text_engl": "Count by 5 to 25",
+   "question_text_urdu": "5 سے 25 تک شمار کریں۔",
+   "audio_file": "q4",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 4,
+   "category": "addition",
+   "difficulty_level": 1,
+   "question_text_engl": "5 plus 2",
+   "question_text_urdu": "5 جمع 2",
+   "audio_file": "q5",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 5,
+   "category": "addition",
+   "difficulty_level": 1,
+   "question_text_engl": "3 plus 4",
+   "question_text_urdu": "3 جمع 4",
+   "audio_file": "q6",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 6,
+   "category": "addition",
+   "difficulty_level": 1,
+   "question_text_engl": "1 plus 6",
+   "question_text_urdu": "1 جمع 6",
+   "audio_file": "q7",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 7,
+   "category": "subtraction",
+   "difficulty_level": 1,
+   "question_text_engl": "6 minus 2",
+   "question_text_urdu": "6 مائنس 2",
+   "audio_file": "q8",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 8,
+   "category": "subtraction",
+   "difficulty_level": 1,
+   "question_text_engl": "9 minus 3",
+   "question_text_urdu": "9 منفی 3",
+   "audio_file": "q9",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 9,
+   "category": "subtraction",
+   "difficulty_level": 2,
+   "question_text_engl": "17 minus 2",
+   "question_text_urdu": "17 منفی 2",
+   "audio_file": "q10",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 10,
+   "category": "subtraction",
+   "difficulty_level": 2,
+   "question_text_engl": "13 minus 6",
+   "question_text_urdu": "13 مائنس 6",
+   "audio_file": "q11",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 11,
+   "category": "multiplication",
+   "difficulty_level": 1,
+   "question_text_engl": "multiply 2 and 3",
+   "question_text_urdu": "2 اور 3 کو ضرب دیں۔",
+   "audio_file": "q12",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 12,
+   "category": "multiplication",
+   "difficulty_level": 1,
+   "question_text_engl": "multiply 4 and 2",
+   "question_text_urdu": "4 اور 2 کو ضرب دیں۔",
+   "audio_file": "q13",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 13,
+   "category": "multiplication",
+   "difficulty_level": 2,
+   "question_text_engl": "multiply 7 and 6",
+   "question_text_urdu": "7 اور 6 کو ضرب دیں۔",
+   "audio_file": "q14",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 14,
+   "category": "multiplication",
+   "difficulty_level": 2,
+   "question_text_engl": "multiply 5 and 8",
+   "question_text_urdu": "5 اور 8 کو ضرب دیں۔",
+   "audio_file": "q15",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 15,
+   "category": "division",
+   "difficulty_level": 1,
+   "question_text_engl": "divide 4 by 2",
+   "question_text_urdu": "4 کو 2 سے تقسیم کریں۔",
+   "audio_file": "q16",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 16,
+   "category": "division",
+   "difficulty_level": 1,
+   "question_text_engl": "divide 6 by 3",
+   "question_text_urdu": "6 کو 3 سے تقسیم کریں۔",
+   "audio_file": "q17",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 17,
+   "category": "division",
+   "difficulty_level": 2,
+   "question_text_engl": "divide 15 by 5",
+   "question_text_urdu": "15 کو 6 سے تقسیم کریں۔",
+   "audio_file": "q18",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 18,
+   "category": "division",
+   "difficulty_level": 2,
+   "question_text_engl": "divide 20 by 4",
+   "question_text_urdu": "20 کو 4 سے تقسیم کریں۔",
+   "audio_file": "q19",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 19,
+   "category": "geometry",
+   "difficulty_level": 1,
+   "question_text_engl": "Name a shape with three corners",
+   "question_text_urdu": "تین کونوں والی شکل کا نام دیں۔",
+   "audio_file": "q20",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 20,
+   "category": "geometry",
+   "difficulty_level": 1,
+   "question_text_engl": "What is a shape called if it has 4 sides of the same length?",
+   "question_text_urdu": "اگر ایک ہی لمبائی کے 4 اطراف ہوں تو کسی شکل کو کیا کہتے ہیں؟",
+   "audio_file": "q21",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 21,
+   "category": "geometry",
+   "difficulty_level": 2,
+   "question_text_engl": "How many sides does a hexagon have?",
+   "question_text_urdu": "ایک مسدس کے کتنے اطراف ہوتے ہیں؟",
+   "audio_file": "q22",
+   "skip": null,
+   "answer_audio": null
+ },
+ {
+   "index": 22,
+   "category": "geometry",
+   "difficulty_level": 2,
+   "question_text_engl": "What kind of triangle has one angle of ninety degrees?",
+   "question_text_urdu": "کس قسم کی مثلث کا ایک صحیح زاویہ ہے؟",
+   "audio_file": "q23",
+   "skip": null,
+   "answer_audio": null
+ }
+]

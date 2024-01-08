@@ -1,0 +1,34 @@
+[
+    {
+      "index": 1,
+      "category": "counting",
+      "question_text_engl": "Count to 10",
+      "audio_file": "counting-1.mp3",
+      "skip": null,
+      "answer_audio": null
+    },
+    {
+        "index": 1,
+        "category": "addition",
+        "question_text_engl": "5 plus 2",
+        "audio_file": "addition-1.mp3",
+        "skip": null,
+        "answer_audio": null
+      },
+      {
+        "index": 1,
+        "category": "subtraction",
+        "question_text_engl": "6 minus 2",
+        "audio_file": "subtraction-1.mp3",
+        "skip": null,
+        "answer_audio": null
+      },
+      {
+        "index": 2,
+        "category": "subtraction",
+        "question_text_engl": "9 minus 3",
+        "audio_file": "subtraction-2.mp3",
+        "skip": null,
+        "answer_audio": null
+      }
+]
